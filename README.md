@@ -3,7 +3,7 @@ My own fn cheat - public - undetected
 
 -----------------------------------
 STATUS:
-BE: Undetected
+BE: semi-Undetected
 EAC: Undetected
 -----------------------------------
 
